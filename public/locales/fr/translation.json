@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour, Bienvenue",
+  "description": {
+    "line1": "Bonjour, c'est moi Qazi Ahmad de Peshawar, Pakistan. <1>{{channel}}</1>",
+    "line2": "J'apprends l'internationalisation"
+  }
+}
